@@ -1,9 +1,7 @@
 package com.ll;
 
 public class Todo {
-
     private long id;
-
     private String content;
 
     public long getId() {
